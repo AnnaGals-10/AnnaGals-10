@@ -5,7 +5,7 @@ Hi, I'm Anna 👋<br>🎓 AI Engineering student at UPC Barcelona<br>🔬 Focuse
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AnnaGalstyan) 
 
-## 📫 Contact me
+## 📫 Contact me:
 ✉️ annagals10@gmail.com
 
 # 💻 Tech Stack:
