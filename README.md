@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Anna 👋<br>🎓 AI Engineering student at UPC Barcelona<br>🔬 Focused on NLP · LLMs · RAG systems · Data Science<br>🚀 I build production-ready apps — from research to deployment<br><br>🛠️ What I'm working on<br><br>🔍 Lexis AI — AI-powered legal contract analyzer with RAG, risk scoring and negotiation suggestions<br>✅ AI Fact-Checker — Agentic misinformation detector with real-time web search and source credibility scoring
+Hi, I'm Anna 👋<br>🎓 AI Engineering student at UPC Barcelona<br>🔬 Focused on NLP · LLMs · RAG systems · Data Science<br>🚀 I build production-ready apps — from research to deployment<br><br>🛠️ What I'm working on<br><br>🔍 Lexis AI — AI-powered legal contract analyzer with RAG, risk scoring and negotiation suggestions<br>✅ verity — Agentic misinformation detector with real-time web search and source credibility scoring
 
 
 ## 🌐 Socials:
