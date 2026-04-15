@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Anna 👋<br>🎓 AI Engineering student at UPC Barcelona<br>🔬 Focused on NLP · LLMs · RAG systems · Data Science<br>🚀 I build production-ready apps — from research to deployment<br><br>### 🛠️ What I'm working on
+Hi, I'm Anna 👋<br>🎓 AI Engineering student at UPC Barcelona<br>🔬 Focused on NLP · LLMs · RAG systems · Data Science<br>🚀 I build production-ready apps — from research to deployment<br><br> 🛠️ What I'm working on
 - 🔍 **[Lexis AI](github.com/AnnaGals-10/lexis-ai)** — AI-powered legal contract analyzer with RAG, risk scoring and negotiation suggestions
 - ✅ **[Verity](github.com/AnnaGals-10/verity)** — Agentic misinformation detector with real-time web search and source credibility scoring
 - 🧠 **[Second Brain](github.com/AnnaGals-10/second-brain)** — Personal knowledge graph combining RAG, GraphRAG and LLM reasoning over Obsidian notes
